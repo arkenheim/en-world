@@ -2,7 +2,7 @@
 
 Arkenheim contains almost all the land on the continent, with the notable exceptions of [Draconia](/draconia) and the [unclaimed lands](/unclaimed_lands), and has been the _de facto_ political and geographic power in all the [Known World](/known_world) since it's [formation](#formation) over 200 years ago.
 
-
+-----
 ## History
 _(The main events in the history of Arkenheim can be found in the [Timeline](/timeline).)_
 
@@ -22,3 +22,10 @@ _(The main events in the history of Arkenheim can be found in the [Timeline](/ti
 
 ### Draconian Uprising
 {{Enter details of the uprising, war, sedition, and treaty}}
+
+-----
+## Behind the Scenes
+### The name "Arkenheim"
+The word "Arkenheim" was created by [me](/authors/James) for another D&D world that was never completed. When [Conner](/authors/Conner) began creating a new D&D world it had a name that neither of us were too fond of so "Arkenheim" was changed to "Arkenhein" and lent to that project. When I began this online Wiki-of-sorts, I changed the name back to "Arkenheim".
+
+The word "Arkenheim" doesn't mean anything in any language (as far as I can tell) but in a few Germanic languages, the constituant parts "Arken" and "heim" mean "ark" and "world" respectively.
